@@ -1,6 +1,6 @@
 # redisHammer
 
-简单的redis操作
+简单的redis操作, 主要针对db scan、key scan、key del等不方便用命令行操作的动作进行简化
 
 通用参数:
 
